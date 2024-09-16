@@ -1,0 +1,11 @@
+../Core/Src/freertos.c:191:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:266:6:SendYAMCS	112	static
+../Core/Src/freertos.c:318:6:ReceiveYAMCS	16	static
+../Core/Src/freertos.c:336:6:TempControl	24	static
+../Core/Src/freertos.c:359:6:TelemetrySafetyControl	56	static
+../Core/Src/freertos.c:397:6:CommControl	192	static
+../Core/Src/freertos.c:464:6:HAL_UARTEx_RxEventCallback	32	static
+../Core/Src/freertos.c:483:5:actCommandConversion	24	static
+../Core/Src/freertos.c:527:5:tempCommandConversion	24	static
+../Core/Src/freertos.c:537:6:HAL_I2C_MemRxCpltCallback	16	static
+../Core/Src/freertos.c:543:6:HAL_I2C_MemTxCpltCallback	16	static

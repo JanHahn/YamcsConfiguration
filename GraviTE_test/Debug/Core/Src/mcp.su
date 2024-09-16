@@ -1,0 +1,8 @@
+../Core/Src/mcp.c:11:6:MCP9808_Init	24	static
+../Core/Src/mcp.c:27:6:MCP9808_Enable	16	static
+../Core/Src/mcp.c:37:6:MCP9808_Disable	16	static
+../Core/Src/mcp.c:51:6:MCP9808_Configure	16	static
+../Core/Src/mcp.c:63:7:MCP9808_GetTemperature	16	static
+../Core/Src/mcp.c:73:6:MCP9808_GetAlertCritical	16	static
+../Core/Src/mcp.c:83:6:MCP9808_Read	32	static
+../Core/Src/mcp.c:115:6:MCP9808_Write	32	static
